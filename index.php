@@ -1,0 +1,14 @@
+<html>
+
+<head>
+    <title>Prayer Times</title>
+    <link rel="stylesheet" href="app.css">
+</head>
+
+<body>
+    <div id="app"></div>
+</body>
+
+<script src="app.js"></script>
+
+</html>
